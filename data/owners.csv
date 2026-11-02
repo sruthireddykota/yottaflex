@@ -1,0 +1,5 @@
+owner_id,name,owner_type
+OWN-000001,YottaFlex Pool,supplier
+OWN-000002,Northwind Supplier,customer
+OWN-000003,Acme Retail,customer
+OWN-000004,Contoso DC,customer

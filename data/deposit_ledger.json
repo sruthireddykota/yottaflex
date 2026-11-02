@@ -1,0 +1,1074 @@
+[
+  {
+    "ledger_id": "LED-2026-000001",
+    "asset_id": "ASSET-0000001",
+    "return_authorization_id": "RMA-2026-000001",
+    "entry_type": "charge",
+    "amount": "25.00",
+    "entry_date": "2026-01-02"
+  },
+  {
+    "ledger_id": "LED-2026-000002",
+    "asset_id": "ASSET-0000002",
+    "return_authorization_id": "RMA-2026-000002",
+    "entry_type": "charge",
+    "amount": "12.50",
+    "entry_date": "2026-01-03"
+  },
+  {
+    "ledger_id": "LED-2026-000003",
+    "asset_id": "ASSET-0000003",
+    "return_authorization_id": "RMA-2026-000003",
+    "entry_type": "charge",
+    "amount": "40.00",
+    "entry_date": "2026-01-04"
+  },
+  {
+    "ledger_id": "LED-2026-000003-R",
+    "asset_id": "ASSET-0000003",
+    "return_authorization_id": "RMA-2026-000003",
+    "entry_type": "refund",
+    "amount": "40.00",
+    "entry_date": "2026-01-19"
+  },
+  {
+    "ledger_id": "LED-2026-000004",
+    "asset_id": "ASSET-0000004",
+    "return_authorization_id": "RMA-2026-000004",
+    "entry_type": "charge",
+    "amount": "100.00",
+    "entry_date": "2026-01-05"
+  },
+  {
+    "ledger_id": "LED-2026-000005",
+    "asset_id": "ASSET-0000005",
+    "return_authorization_id": "RMA-2026-000005",
+    "entry_type": "charge",
+    "amount": "25.00",
+    "entry_date": "2026-01-06"
+  },
+  {
+    "ledger_id": "LED-2026-000006",
+    "asset_id": "ASSET-0000006",
+    "return_authorization_id": "RMA-2026-000006",
+    "entry_type": "charge",
+    "amount": "12.50",
+    "entry_date": "2026-01-07"
+  },
+  {
+    "ledger_id": "LED-2026-000006-R",
+    "asset_id": "ASSET-0000006",
+    "return_authorization_id": "RMA-2026-000006",
+    "entry_type": "refund",
+    "amount": "12.50",
+    "entry_date": "2026-01-28"
+  },
+  {
+    "ledger_id": "LED-2026-000007",
+    "asset_id": "ASSET-0000007",
+    "return_authorization_id": "RMA-2026-000007",
+    "entry_type": "charge",
+    "amount": "40.00",
+    "entry_date": "2026-01-08"
+  },
+  {
+    "ledger_id": "LED-2026-000008",
+    "asset_id": "ASSET-0000008",
+    "return_authorization_id": "RMA-2026-000008",
+    "entry_type": "charge",
+    "amount": "100.00",
+    "entry_date": "2026-01-09"
+  },
+  {
+    "ledger_id": "LED-2026-000009",
+    "asset_id": "ASSET-0000009",
+    "return_authorization_id": "RMA-2026-000009",
+    "entry_type": "charge",
+    "amount": "25.00",
+    "entry_date": "2026-01-10"
+  },
+  {
+    "ledger_id": "LED-2026-000009-R",
+    "asset_id": "ASSET-0000009",
+    "return_authorization_id": "RMA-2026-000009",
+    "entry_type": "refund",
+    "amount": "25.00",
+    "entry_date": "2026-02-06"
+  },
+  {
+    "ledger_id": "LED-2026-000010",
+    "asset_id": "ASSET-0000010",
+    "return_authorization_id": "RMA-2026-000010",
+    "entry_type": "charge",
+    "amount": "12.50",
+    "entry_date": "2026-01-11"
+  },
+  {
+    "ledger_id": "LED-2026-000011",
+    "asset_id": "ASSET-0000011",
+    "return_authorization_id": "RMA-2026-000011",
+    "entry_type": "charge",
+    "amount": "40.00",
+    "entry_date": "2026-01-12"
+  },
+  {
+    "ledger_id": "LED-2026-000012",
+    "asset_id": "ASSET-0000012",
+    "return_authorization_id": "RMA-2026-000012",
+    "entry_type": "charge",
+    "amount": "100.00",
+    "entry_date": "2026-01-13"
+  },
+  {
+    "ledger_id": "LED-2026-000012-R",
+    "asset_id": "ASSET-0000012",
+    "return_authorization_id": "RMA-2026-000012",
+    "entry_type": "refund",
+    "amount": "100.00",
+    "entry_date": "2026-02-15"
+  },
+  {
+    "ledger_id": "LED-2026-000013",
+    "asset_id": "ASSET-0000013",
+    "return_authorization_id": "RMA-2026-000013",
+    "entry_type": "charge",
+    "amount": "25.00",
+    "entry_date": "2026-01-14"
+  },
+  {
+    "ledger_id": "LED-2026-000014",
+    "asset_id": "ASSET-0000014",
+    "return_authorization_id": "RMA-2026-000014",
+    "entry_type": "charge",
+    "amount": "12.50",
+    "entry_date": "2026-01-15"
+  },
+  {
+    "ledger_id": "LED-2026-000015",
+    "asset_id": "ASSET-0000015",
+    "return_authorization_id": "RMA-2026-000015",
+    "entry_type": "charge",
+    "amount": "40.00",
+    "entry_date": "2026-01-16"
+  },
+  {
+    "ledger_id": "LED-2026-000015-R",
+    "asset_id": "ASSET-0000015",
+    "return_authorization_id": "RMA-2026-000015",
+    "entry_type": "refund",
+    "amount": "40.00",
+    "entry_date": "2026-02-24"
+  },
+  {
+    "ledger_id": "LED-2026-000016",
+    "asset_id": "ASSET-0000016",
+    "return_authorization_id": "RMA-2026-000016",
+    "entry_type": "charge",
+    "amount": "100.00",
+    "entry_date": "2026-01-17"
+  },
+  {
+    "ledger_id": "LED-2026-000017",
+    "asset_id": "ASSET-0000017",
+    "return_authorization_id": "RMA-2026-000017",
+    "entry_type": "charge",
+    "amount": "25.00",
+    "entry_date": "2026-01-18"
+  },
+  {
+    "ledger_id": "LED-2026-000018",
+    "asset_id": "ASSET-0000018",
+    "return_authorization_id": "RMA-2026-000018",
+    "entry_type": "charge",
+    "amount": "12.50",
+    "entry_date": "2026-01-19"
+  },
+  {
+    "ledger_id": "LED-2026-000018-R",
+    "asset_id": "ASSET-0000018",
+    "return_authorization_id": "RMA-2026-000018",
+    "entry_type": "refund",
+    "amount": "12.50",
+    "entry_date": "2026-03-05"
+  },
+  {
+    "ledger_id": "LED-2026-000019",
+    "asset_id": "ASSET-0000019",
+    "return_authorization_id": "RMA-2026-000019",
+    "entry_type": "charge",
+    "amount": "40.00",
+    "entry_date": "2026-01-20"
+  },
+  {
+    "ledger_id": "LED-2026-000020",
+    "asset_id": "ASSET-0000020",
+    "return_authorization_id": "RMA-2026-000020",
+    "entry_type": "charge",
+    "amount": "100.00",
+    "entry_date": "2026-01-21"
+  },
+  {
+    "ledger_id": "LED-2026-000021",
+    "asset_id": "ASSET-0000021",
+    "return_authorization_id": "RMA-2026-000021",
+    "entry_type": "charge",
+    "amount": "25.00",
+    "entry_date": "2026-01-22"
+  },
+  {
+    "ledger_id": "LED-2026-000021-R",
+    "asset_id": "ASSET-0000021",
+    "return_authorization_id": "RMA-2026-000021",
+    "entry_type": "refund",
+    "amount": "25.00",
+    "entry_date": "2026-02-22"
+  },
+  {
+    "ledger_id": "LED-2026-000022",
+    "asset_id": "ASSET-0000022",
+    "return_authorization_id": "RMA-2026-000022",
+    "entry_type": "charge",
+    "amount": "12.50",
+    "entry_date": "2026-01-23"
+  },
+  {
+    "ledger_id": "LED-2026-000023",
+    "asset_id": "ASSET-0000023",
+    "return_authorization_id": "RMA-2026-000023",
+    "entry_type": "charge",
+    "amount": "40.00",
+    "entry_date": "2026-01-24"
+  },
+  {
+    "ledger_id": "LED-2026-000024",
+    "asset_id": "ASSET-0000024",
+    "return_authorization_id": "RMA-2026-000024",
+    "entry_type": "charge",
+    "amount": "100.00",
+    "entry_date": "2026-01-25"
+  },
+  {
+    "ledger_id": "LED-2026-000024-R",
+    "asset_id": "ASSET-0000024",
+    "return_authorization_id": "RMA-2026-000024",
+    "entry_type": "refund",
+    "amount": "100.00",
+    "entry_date": "2026-03-03"
+  },
+  {
+    "ledger_id": "LED-2026-000025",
+    "asset_id": "ASSET-0000025",
+    "return_authorization_id": "RMA-2026-000025",
+    "entry_type": "charge",
+    "amount": "25.00",
+    "entry_date": "2026-01-26"
+  },
+  {
+    "ledger_id": "LED-2026-000026",
+    "asset_id": "ASSET-0000026",
+    "return_authorization_id": "RMA-2026-000026",
+    "entry_type": "charge",
+    "amount": "12.50",
+    "entry_date": "2026-01-27"
+  },
+  {
+    "ledger_id": "LED-2026-000027",
+    "asset_id": "ASSET-0000027",
+    "return_authorization_id": "RMA-2026-000027",
+    "entry_type": "charge",
+    "amount": "40.00",
+    "entry_date": "2026-01-28"
+  },
+  {
+    "ledger_id": "LED-2026-000027-R",
+    "asset_id": "ASSET-0000027",
+    "return_authorization_id": "RMA-2026-000027",
+    "entry_type": "refund",
+    "amount": "40.00",
+    "entry_date": "2026-02-15"
+  },
+  {
+    "ledger_id": "LED-2026-000028",
+    "asset_id": "ASSET-0000028",
+    "return_authorization_id": "RMA-2026-000028",
+    "entry_type": "charge",
+    "amount": "100.00",
+    "entry_date": "2026-01-29"
+  },
+  {
+    "ledger_id": "LED-2026-000029",
+    "asset_id": "ASSET-0000029",
+    "return_authorization_id": "RMA-2026-000029",
+    "entry_type": "charge",
+    "amount": "25.00",
+    "entry_date": "2026-01-30"
+  },
+  {
+    "ledger_id": "LED-2026-000030",
+    "asset_id": "ASSET-0000030",
+    "return_authorization_id": "RMA-2026-000030",
+    "entry_type": "charge",
+    "amount": "12.50",
+    "entry_date": "2026-01-31"
+  },
+  {
+    "ledger_id": "LED-2026-000030-R",
+    "asset_id": "ASSET-0000030",
+    "return_authorization_id": "RMA-2026-000030",
+    "entry_type": "refund",
+    "amount": "12.50",
+    "entry_date": "2026-02-24"
+  },
+  {
+    "ledger_id": "LED-2026-000031",
+    "asset_id": "ASSET-0000031",
+    "return_authorization_id": "RMA-2026-000031",
+    "entry_type": "charge",
+    "amount": "40.00",
+    "entry_date": "2026-02-01"
+  },
+  {
+    "ledger_id": "LED-2026-000032",
+    "asset_id": "ASSET-0000032",
+    "return_authorization_id": "RMA-2026-000032",
+    "entry_type": "charge",
+    "amount": "100.00",
+    "entry_date": "2026-02-02"
+  },
+  {
+    "ledger_id": "LED-2026-000033",
+    "asset_id": "ASSET-0000033",
+    "return_authorization_id": "RMA-2026-000033",
+    "entry_type": "charge",
+    "amount": "25.00",
+    "entry_date": "2026-02-03"
+  },
+  {
+    "ledger_id": "LED-2026-000033-R",
+    "asset_id": "ASSET-0000033",
+    "return_authorization_id": "RMA-2026-000033",
+    "entry_type": "refund",
+    "amount": "25.00",
+    "entry_date": "2026-03-05"
+  },
+  {
+    "ledger_id": "LED-2026-000034",
+    "asset_id": "ASSET-0000034",
+    "return_authorization_id": "RMA-2026-000034",
+    "entry_type": "charge",
+    "amount": "12.50",
+    "entry_date": "2026-02-04"
+  },
+  {
+    "ledger_id": "LED-2026-000035",
+    "asset_id": "ASSET-0000035",
+    "return_authorization_id": "RMA-2026-000035",
+    "entry_type": "charge",
+    "amount": "40.00",
+    "entry_date": "2026-02-05"
+  },
+  {
+    "ledger_id": "LED-2026-000036",
+    "asset_id": "ASSET-0000036",
+    "return_authorization_id": "RMA-2026-000036",
+    "entry_type": "charge",
+    "amount": "100.00",
+    "entry_date": "2026-02-06"
+  },
+  {
+    "ledger_id": "LED-2026-000036-R",
+    "asset_id": "ASSET-0000036",
+    "return_authorization_id": "RMA-2026-000036",
+    "entry_type": "refund",
+    "amount": "100.00",
+    "entry_date": "2026-03-14"
+  },
+  {
+    "ledger_id": "LED-2026-000037",
+    "asset_id": "ASSET-0000037",
+    "return_authorization_id": "RMA-2026-000037",
+    "entry_type": "charge",
+    "amount": "25.00",
+    "entry_date": "2026-02-07"
+  },
+  {
+    "ledger_id": "LED-2026-000038",
+    "asset_id": "ASSET-0000038",
+    "return_authorization_id": "RMA-2026-000038",
+    "entry_type": "charge",
+    "amount": "12.50",
+    "entry_date": "2026-02-08"
+  },
+  {
+    "ledger_id": "LED-2026-000039",
+    "asset_id": "ASSET-0000039",
+    "return_authorization_id": "RMA-2026-000039",
+    "entry_type": "charge",
+    "amount": "40.00",
+    "entry_date": "2026-02-09"
+  },
+  {
+    "ledger_id": "LED-2026-000039-R",
+    "asset_id": "ASSET-0000039",
+    "return_authorization_id": "RMA-2026-000039",
+    "entry_type": "refund",
+    "amount": "40.00",
+    "entry_date": "2026-03-23"
+  },
+  {
+    "ledger_id": "LED-2026-000040",
+    "asset_id": "ASSET-0000040",
+    "return_authorization_id": "RMA-2026-000040",
+    "entry_type": "charge",
+    "amount": "100.00",
+    "entry_date": "2026-02-10"
+  },
+  {
+    "ledger_id": "LED-2026-000041",
+    "asset_id": "ASSET-0000041",
+    "return_authorization_id": "RMA-2026-000041",
+    "entry_type": "charge",
+    "amount": "25.00",
+    "entry_date": "2026-02-11"
+  },
+  {
+    "ledger_id": "LED-2026-000042",
+    "asset_id": "ASSET-0000042",
+    "return_authorization_id": "RMA-2026-000042",
+    "entry_type": "charge",
+    "amount": "12.50",
+    "entry_date": "2026-02-12"
+  },
+  {
+    "ledger_id": "LED-2026-000042-R",
+    "asset_id": "ASSET-0000042",
+    "return_authorization_id": "RMA-2026-000042",
+    "entry_type": "refund",
+    "amount": "12.50",
+    "entry_date": "2026-03-12"
+  },
+  {
+    "ledger_id": "LED-2026-000043",
+    "asset_id": "ASSET-0000043",
+    "return_authorization_id": "RMA-2026-000043",
+    "entry_type": "charge",
+    "amount": "40.00",
+    "entry_date": "2026-02-13"
+  },
+  {
+    "ledger_id": "LED-2026-000044",
+    "asset_id": "ASSET-0000044",
+    "return_authorization_id": "RMA-2026-000044",
+    "entry_type": "charge",
+    "amount": "100.00",
+    "entry_date": "2026-02-14"
+  },
+  {
+    "ledger_id": "LED-2026-000045",
+    "asset_id": "ASSET-0000045",
+    "return_authorization_id": "RMA-2026-000045",
+    "entry_type": "charge",
+    "amount": "25.00",
+    "entry_date": "2026-02-15"
+  },
+  {
+    "ledger_id": "LED-2026-000045-R",
+    "asset_id": "ASSET-0000045",
+    "return_authorization_id": "RMA-2026-000045",
+    "entry_type": "refund",
+    "amount": "25.00",
+    "entry_date": "2026-03-21"
+  },
+  {
+    "ledger_id": "LED-2026-000046",
+    "asset_id": "ASSET-0000046",
+    "return_authorization_id": "RMA-2026-000046",
+    "entry_type": "charge",
+    "amount": "12.50",
+    "entry_date": "2026-02-16"
+  },
+  {
+    "ledger_id": "LED-2026-000047",
+    "asset_id": "ASSET-0000047",
+    "return_authorization_id": "RMA-2026-000047",
+    "entry_type": "charge",
+    "amount": "40.00",
+    "entry_date": "2026-02-17"
+  },
+  {
+    "ledger_id": "LED-2026-000048",
+    "asset_id": "ASSET-0000048",
+    "return_authorization_id": "RMA-2026-000048",
+    "entry_type": "charge",
+    "amount": "100.00",
+    "entry_date": "2026-02-18"
+  },
+  {
+    "ledger_id": "LED-2026-000048-R",
+    "asset_id": "ASSET-0000048",
+    "return_authorization_id": "RMA-2026-000048",
+    "entry_type": "refund",
+    "amount": "100.00",
+    "entry_date": "2026-03-30"
+  },
+  {
+    "ledger_id": "LED-2026-000049",
+    "asset_id": "ASSET-0000049",
+    "return_authorization_id": "RMA-2026-000049",
+    "entry_type": "charge",
+    "amount": "25.00",
+    "entry_date": "2026-02-19"
+  },
+  {
+    "ledger_id": "LED-2026-000050",
+    "asset_id": "ASSET-0000050",
+    "return_authorization_id": "RMA-2026-000050",
+    "entry_type": "charge",
+    "amount": "12.50",
+    "entry_date": "2026-02-20"
+  },
+  {
+    "ledger_id": "LED-2026-000051",
+    "asset_id": "ASSET-0000051",
+    "return_authorization_id": "RMA-2026-000051",
+    "entry_type": "charge",
+    "amount": "40.00",
+    "entry_date": "2026-01-02"
+  },
+  {
+    "ledger_id": "LED-2026-000051-R",
+    "asset_id": "ASSET-0000051",
+    "return_authorization_id": "RMA-2026-000051",
+    "entry_type": "refund",
+    "amount": "40.00",
+    "entry_date": "2026-01-23"
+  },
+  {
+    "ledger_id": "LED-2026-000052",
+    "asset_id": "ASSET-0000052",
+    "return_authorization_id": "RMA-2026-000052",
+    "entry_type": "charge",
+    "amount": "100.00",
+    "entry_date": "2026-01-03"
+  },
+  {
+    "ledger_id": "LED-2026-000053",
+    "asset_id": "ASSET-0000053",
+    "return_authorization_id": "RMA-2026-000053",
+    "entry_type": "charge",
+    "amount": "25.00",
+    "entry_date": "2026-01-04"
+  },
+  {
+    "ledger_id": "LED-2026-000054",
+    "asset_id": "ASSET-0000054",
+    "return_authorization_id": "RMA-2026-000054",
+    "entry_type": "charge",
+    "amount": "12.50",
+    "entry_date": "2026-01-05"
+  },
+  {
+    "ledger_id": "LED-2026-000054-R",
+    "asset_id": "ASSET-0000054",
+    "return_authorization_id": "RMA-2026-000054",
+    "entry_type": "refund",
+    "amount": "12.50",
+    "entry_date": "2026-02-01"
+  },
+  {
+    "ledger_id": "LED-2026-000055",
+    "asset_id": "ASSET-0000055",
+    "return_authorization_id": "RMA-2026-000055",
+    "entry_type": "charge",
+    "amount": "40.00",
+    "entry_date": "2026-01-06"
+  },
+  {
+    "ledger_id": "LED-2026-000056",
+    "asset_id": "ASSET-0000056",
+    "return_authorization_id": "RMA-2026-000056",
+    "entry_type": "charge",
+    "amount": "100.00",
+    "entry_date": "2026-01-07"
+  },
+  {
+    "ledger_id": "LED-2026-000057",
+    "asset_id": "ASSET-0000057",
+    "return_authorization_id": "RMA-2026-000057",
+    "entry_type": "charge",
+    "amount": "25.00",
+    "entry_date": "2026-01-08"
+  },
+  {
+    "ledger_id": "LED-2026-000057-R",
+    "asset_id": "ASSET-0000057",
+    "return_authorization_id": "RMA-2026-000057",
+    "entry_type": "refund",
+    "amount": "25.00",
+    "entry_date": "2026-02-10"
+  },
+  {
+    "ledger_id": "LED-2026-000058",
+    "asset_id": "ASSET-0000058",
+    "return_authorization_id": "RMA-2026-000058",
+    "entry_type": "charge",
+    "amount": "12.50",
+    "entry_date": "2026-01-09"
+  },
+  {
+    "ledger_id": "LED-2026-000059",
+    "asset_id": "ASSET-0000059",
+    "return_authorization_id": "RMA-2026-000059",
+    "entry_type": "charge",
+    "amount": "40.00",
+    "entry_date": "2026-01-10"
+  },
+  {
+    "ledger_id": "LED-2026-000060",
+    "asset_id": "ASSET-0000060",
+    "return_authorization_id": "RMA-2026-000060",
+    "entry_type": "charge",
+    "amount": "100.00",
+    "entry_date": "2026-01-11"
+  },
+  {
+    "ledger_id": "LED-2026-000060-R",
+    "asset_id": "ASSET-0000060",
+    "return_authorization_id": "RMA-2026-000060",
+    "entry_type": "refund",
+    "amount": "100.00",
+    "entry_date": "2026-01-30"
+  },
+  {
+    "ledger_id": "LED-2026-000061",
+    "asset_id": "ASSET-0000061",
+    "return_authorization_id": "RMA-2026-000061",
+    "entry_type": "charge",
+    "amount": "25.00",
+    "entry_date": "2026-01-12"
+  },
+  {
+    "ledger_id": "LED-2026-000062",
+    "asset_id": "ASSET-0000062",
+    "return_authorization_id": "RMA-2026-000062",
+    "entry_type": "charge",
+    "amount": "12.50",
+    "entry_date": "2026-01-13"
+  },
+  {
+    "ledger_id": "LED-2026-000063",
+    "asset_id": "ASSET-0000063",
+    "return_authorization_id": "RMA-2026-000063",
+    "entry_type": "charge",
+    "amount": "40.00",
+    "entry_date": "2026-01-14"
+  },
+  {
+    "ledger_id": "LED-2026-000063-R",
+    "asset_id": "ASSET-0000063",
+    "return_authorization_id": "RMA-2026-000063",
+    "entry_type": "refund",
+    "amount": "40.00",
+    "entry_date": "2026-02-08"
+  },
+  {
+    "ledger_id": "LED-2026-000064",
+    "asset_id": "ASSET-0000064",
+    "return_authorization_id": "RMA-2026-000064",
+    "entry_type": "charge",
+    "amount": "100.00",
+    "entry_date": "2026-01-15"
+  },
+  {
+    "ledger_id": "LED-2026-000065",
+    "asset_id": "ASSET-0000065",
+    "return_authorization_id": "RMA-2026-000065",
+    "entry_type": "charge",
+    "amount": "25.00",
+    "entry_date": "2026-01-16"
+  },
+  {
+    "ledger_id": "LED-2026-000066",
+    "asset_id": "ASSET-0000066",
+    "return_authorization_id": "RMA-2026-000066",
+    "entry_type": "charge",
+    "amount": "12.50",
+    "entry_date": "2026-01-17"
+  },
+  {
+    "ledger_id": "LED-2026-000066-R",
+    "asset_id": "ASSET-0000066",
+    "return_authorization_id": "RMA-2026-000066",
+    "entry_type": "refund",
+    "amount": "12.50",
+    "entry_date": "2026-02-17"
+  },
+  {
+    "ledger_id": "LED-2026-000067",
+    "asset_id": "ASSET-0000067",
+    "return_authorization_id": "RMA-2026-000067",
+    "entry_type": "charge",
+    "amount": "40.00",
+    "entry_date": "2026-01-18"
+  },
+  {
+    "ledger_id": "LED-2026-000068",
+    "asset_id": "ASSET-0000068",
+    "return_authorization_id": "RMA-2026-000068",
+    "entry_type": "charge",
+    "amount": "100.00",
+    "entry_date": "2026-01-19"
+  },
+  {
+    "ledger_id": "LED-2026-000069",
+    "asset_id": "ASSET-0000069",
+    "return_authorization_id": "RMA-2026-000069",
+    "entry_type": "charge",
+    "amount": "25.00",
+    "entry_date": "2026-01-20"
+  },
+  {
+    "ledger_id": "LED-2026-000069-R",
+    "asset_id": "ASSET-0000069",
+    "return_authorization_id": "RMA-2026-000069",
+    "entry_type": "refund",
+    "amount": "25.00",
+    "entry_date": "2026-02-26"
+  },
+  {
+    "ledger_id": "LED-2026-000070",
+    "asset_id": "ASSET-0000070",
+    "return_authorization_id": "RMA-2026-000070",
+    "entry_type": "charge",
+    "amount": "12.50",
+    "entry_date": "2026-01-21"
+  },
+  {
+    "ledger_id": "LED-2026-000071",
+    "asset_id": "ASSET-0000071",
+    "return_authorization_id": "RMA-2026-000071",
+    "entry_type": "charge",
+    "amount": "40.00",
+    "entry_date": "2026-01-22"
+  },
+  {
+    "ledger_id": "LED-2026-000072",
+    "asset_id": "ASSET-0000072",
+    "return_authorization_id": "RMA-2026-000072",
+    "entry_type": "charge",
+    "amount": "100.00",
+    "entry_date": "2026-01-23"
+  },
+  {
+    "ledger_id": "LED-2026-000072-R",
+    "asset_id": "ASSET-0000072",
+    "return_authorization_id": "RMA-2026-000072",
+    "entry_type": "refund",
+    "amount": "100.00",
+    "entry_date": "2026-03-07"
+  },
+  {
+    "ledger_id": "LED-2026-000073",
+    "asset_id": "ASSET-0000073",
+    "return_authorization_id": "RMA-2026-000073",
+    "entry_type": "charge",
+    "amount": "25.00",
+    "entry_date": "2026-01-24"
+  },
+  {
+    "ledger_id": "LED-2026-000074",
+    "asset_id": "ASSET-0000074",
+    "return_authorization_id": "RMA-2026-000074",
+    "entry_type": "charge",
+    "amount": "12.50",
+    "entry_date": "2026-01-25"
+  },
+  {
+    "ledger_id": "LED-2026-000075",
+    "asset_id": "ASSET-0000075",
+    "return_authorization_id": "RMA-2026-000075",
+    "entry_type": "charge",
+    "amount": "40.00",
+    "entry_date": "2026-01-26"
+  },
+  {
+    "ledger_id": "LED-2026-000075-R",
+    "asset_id": "ASSET-0000075",
+    "return_authorization_id": "RMA-2026-000075",
+    "entry_type": "refund",
+    "amount": "40.00",
+    "entry_date": "2026-02-19"
+  },
+  {
+    "ledger_id": "LED-2026-000076",
+    "asset_id": "ASSET-0000076",
+    "return_authorization_id": "RMA-2026-000076",
+    "entry_type": "charge",
+    "amount": "100.00",
+    "entry_date": "2026-01-27"
+  },
+  {
+    "ledger_id": "LED-2026-000077",
+    "asset_id": "ASSET-0000077",
+    "return_authorization_id": "RMA-2026-000077",
+    "entry_type": "charge",
+    "amount": "25.00",
+    "entry_date": "2026-01-28"
+  },
+  {
+    "ledger_id": "LED-2026-000078",
+    "asset_id": "ASSET-0000078",
+    "return_authorization_id": "RMA-2026-000078",
+    "entry_type": "charge",
+    "amount": "12.50",
+    "entry_date": "2026-01-29"
+  },
+  {
+    "ledger_id": "LED-2026-000078-R",
+    "asset_id": "ASSET-0000078",
+    "return_authorization_id": "RMA-2026-000078",
+    "entry_type": "refund",
+    "amount": "12.50",
+    "entry_date": "2026-02-28"
+  },
+  {
+    "ledger_id": "LED-2026-000079",
+    "asset_id": "ASSET-0000079",
+    "return_authorization_id": "RMA-2026-000079",
+    "entry_type": "charge",
+    "amount": "40.00",
+    "entry_date": "2026-01-30"
+  },
+  {
+    "ledger_id": "LED-2026-000080",
+    "asset_id": "ASSET-0000080",
+    "return_authorization_id": "RMA-2026-000080",
+    "entry_type": "charge",
+    "amount": "100.00",
+    "entry_date": "2026-01-31"
+  },
+  {
+    "ledger_id": "LED-2026-000081",
+    "asset_id": "ASSET-0000081",
+    "return_authorization_id": "RMA-2026-000081",
+    "entry_type": "charge",
+    "amount": "25.00",
+    "entry_date": "2026-02-01"
+  },
+  {
+    "ledger_id": "LED-2026-000081-R",
+    "asset_id": "ASSET-0000081",
+    "return_authorization_id": "RMA-2026-000081",
+    "entry_type": "refund",
+    "amount": "25.00",
+    "entry_date": "2026-02-17"
+  },
+  {
+    "ledger_id": "LED-2026-000082",
+    "asset_id": "ASSET-0000082",
+    "return_authorization_id": "RMA-2026-000082",
+    "entry_type": "charge",
+    "amount": "12.50",
+    "entry_date": "2026-02-02"
+  },
+  {
+    "ledger_id": "LED-2026-000083",
+    "asset_id": "ASSET-0000083",
+    "return_authorization_id": "RMA-2026-000083",
+    "entry_type": "charge",
+    "amount": "40.00",
+    "entry_date": "2026-02-03"
+  },
+  {
+    "ledger_id": "LED-2026-000084",
+    "asset_id": "ASSET-0000084",
+    "return_authorization_id": "RMA-2026-000084",
+    "entry_type": "charge",
+    "amount": "100.00",
+    "entry_date": "2026-02-04"
+  },
+  {
+    "ledger_id": "LED-2026-000084-R",
+    "asset_id": "ASSET-0000084",
+    "return_authorization_id": "RMA-2026-000084",
+    "entry_type": "refund",
+    "amount": "100.00",
+    "entry_date": "2026-02-26"
+  },
+  {
+    "ledger_id": "LED-2026-000085",
+    "asset_id": "ASSET-0000085",
+    "return_authorization_id": "RMA-2026-000085",
+    "entry_type": "charge",
+    "amount": "25.00",
+    "entry_date": "2026-02-05"
+  },
+  {
+    "ledger_id": "LED-2026-000086",
+    "asset_id": "ASSET-0000086",
+    "return_authorization_id": "RMA-2026-000086",
+    "entry_type": "charge",
+    "amount": "12.50",
+    "entry_date": "2026-02-06"
+  },
+  {
+    "ledger_id": "LED-2026-000087",
+    "asset_id": "ASSET-0000087",
+    "return_authorization_id": "RMA-2026-000087",
+    "entry_type": "charge",
+    "amount": "40.00",
+    "entry_date": "2026-02-07"
+  },
+  {
+    "ledger_id": "LED-2026-000087-R",
+    "asset_id": "ASSET-0000087",
+    "return_authorization_id": "RMA-2026-000087",
+    "entry_type": "refund",
+    "amount": "40.00",
+    "entry_date": "2026-03-07"
+  },
+  {
+    "ledger_id": "LED-2026-000088",
+    "asset_id": "ASSET-0000088",
+    "return_authorization_id": "RMA-2026-000088",
+    "entry_type": "charge",
+    "amount": "100.00",
+    "entry_date": "2026-02-08"
+  },
+  {
+    "ledger_id": "LED-2026-000089",
+    "asset_id": "ASSET-0000089",
+    "return_authorization_id": "RMA-2026-000089",
+    "entry_type": "charge",
+    "amount": "25.00",
+    "entry_date": "2026-02-09"
+  },
+  {
+    "ledger_id": "LED-2026-000090",
+    "asset_id": "ASSET-0000090",
+    "return_authorization_id": "RMA-2026-000090",
+    "entry_type": "charge",
+    "amount": "12.50",
+    "entry_date": "2026-02-10"
+  },
+  {
+    "ledger_id": "LED-2026-000090-R",
+    "asset_id": "ASSET-0000090",
+    "return_authorization_id": "RMA-2026-000090",
+    "entry_type": "refund",
+    "amount": "12.50",
+    "entry_date": "2026-03-16"
+  },
+  {
+    "ledger_id": "LED-2026-000091",
+    "asset_id": "ASSET-0000091",
+    "return_authorization_id": "RMA-2026-000091",
+    "entry_type": "charge",
+    "amount": "40.00",
+    "entry_date": "2026-02-11"
+  },
+  {
+    "ledger_id": "LED-2026-000092",
+    "asset_id": "ASSET-0000092",
+    "return_authorization_id": "RMA-2026-000092",
+    "entry_type": "charge",
+    "amount": "100.00",
+    "entry_date": "2026-02-12"
+  },
+  {
+    "ledger_id": "LED-2026-000093",
+    "asset_id": "ASSET-0000093",
+    "return_authorization_id": "RMA-2026-000093",
+    "entry_type": "charge",
+    "amount": "25.00",
+    "entry_date": "2026-02-13"
+  },
+  {
+    "ledger_id": "LED-2026-000093-R",
+    "asset_id": "ASSET-0000093",
+    "return_authorization_id": "RMA-2026-000093",
+    "entry_type": "refund",
+    "amount": "25.00",
+    "entry_date": "2026-03-25"
+  },
+  {
+    "ledger_id": "LED-2026-000094",
+    "asset_id": "ASSET-0000094",
+    "return_authorization_id": "RMA-2026-000094",
+    "entry_type": "charge",
+    "amount": "12.50",
+    "entry_date": "2026-02-14"
+  },
+  {
+    "ledger_id": "LED-2026-000095",
+    "asset_id": "ASSET-0000095",
+    "return_authorization_id": "RMA-2026-000095",
+    "entry_type": "charge",
+    "amount": "40.00",
+    "entry_date": "2026-02-15"
+  },
+  {
+    "ledger_id": "LED-2026-000096",
+    "asset_id": "ASSET-0000096",
+    "return_authorization_id": "RMA-2026-000096",
+    "entry_type": "charge",
+    "amount": "100.00",
+    "entry_date": "2026-02-16"
+  },
+  {
+    "ledger_id": "LED-2026-000096-R",
+    "asset_id": "ASSET-0000096",
+    "return_authorization_id": "RMA-2026-000096",
+    "entry_type": "refund",
+    "amount": "100.00",
+    "entry_date": "2026-04-03"
+  },
+  {
+    "ledger_id": "LED-2026-000097",
+    "asset_id": "ASSET-0000097",
+    "return_authorization_id": "RMA-2026-000097",
+    "entry_type": "charge",
+    "amount": "25.00",
+    "entry_date": "2026-02-17"
+  },
+  {
+    "ledger_id": "LED-2026-000098",
+    "asset_id": "ASSET-0000098",
+    "return_authorization_id": "RMA-2026-000098",
+    "entry_type": "charge",
+    "amount": "12.50",
+    "entry_date": "2026-02-18"
+  },
+  {
+    "ledger_id": "LED-2026-000099",
+    "asset_id": "ASSET-0000099",
+    "return_authorization_id": "RMA-2026-000099",
+    "entry_type": "charge",
+    "amount": "40.00",
+    "entry_date": "2026-02-19"
+  },
+  {
+    "ledger_id": "LED-2026-000099-R",
+    "asset_id": "ASSET-0000099",
+    "return_authorization_id": "RMA-2026-000099",
+    "entry_type": "refund",
+    "amount": "40.00",
+    "entry_date": "2026-04-12"
+  },
+  {
+    "ledger_id": "LED-2026-000100",
+    "asset_id": "ASSET-0000100",
+    "return_authorization_id": "RMA-2026-000100",
+    "entry_type": "charge",
+    "amount": "100.00",
+    "entry_date": "2026-02-20"
+  },
+  {
+    "ledger_id": "LED-2026-000003-R-DUP",
+    "asset_id": "ASSET-0000003",
+    "return_authorization_id": "RMA-2026-000003",
+    "entry_type": "refund",
+    "amount": "40.00",
+    "entry_date": "2026-01-19"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "issue_id": "ISSUE-000001",
+    "issue_type": "simultaneous_locations",
+    "entity_id": "ASSET-0000001",
+    "expected_decision": "review",
+    "details": "Two custody events share the same effective date with different destinations"
+  },
+  {
+    "issue_id": "ISSUE-000002",
+    "issue_type": "return_before_dispatch",
+    "entity_id": "RMA-2026-000001",
+    "expected_decision": "review",
+    "details": "Return received on or before dispatch"
+  },
+  {
+    "issue_id": "ISSUE-000003",
+    "issue_type": "deposit_refunded_twice",
+    "entity_id": "ASSET-0000003",
+    "expected_decision": "review",
+    "details": "Two refunds exist for one charged deposit"
+  },
+  {
+    "issue_id": "ISSUE-000004",
+    "issue_type": "repair_without_inspection",
+    "entity_id": "REP-2026-000001",
+    "expected_decision": "review",
+    "details": "Closed repair has no inspection foreign key"
+  },
+  {
+    "issue_id": "ISSUE-000005",
+    "issue_type": "custody_missing_actor",
+    "entity_id": "CUST-ASSET-0000019-000019",
+    "expected_decision": "review",
+    "details": "Custody event actor is blank"
+  }
+]

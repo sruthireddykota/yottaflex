@@ -1,0 +1,27 @@
+[
+  {
+    "location_id": "LOC-000001",
+    "name": "Bengaluru Pool",
+    "location_type": "warehouse"
+  },
+  {
+    "location_id": "LOC-000002",
+    "name": "Chennai Hub",
+    "location_type": "warehouse"
+  },
+  {
+    "location_id": "LOC-000003",
+    "name": "Hyderabad Customer",
+    "location_type": "customer"
+  },
+  {
+    "location_id": "LOC-000004",
+    "name": "Pune Repair Center",
+    "location_type": "repair"
+  },
+  {
+    "location_id": "LOC-000005",
+    "name": "Mumbai Port",
+    "location_type": "transit"
+  }
+]

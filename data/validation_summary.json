@@ -1,0 +1,25 @@
+{
+  "checks": {
+    "primary_key_uniqueness": true,
+    "foreign_key_integrity": true,
+    "allowed_values": true,
+    "date_ordering": true,
+    "deposit_reconciliation": true
+  },
+  "unexpected_errors": [],
+  "ground_truth_issue_types": [
+    "custody_missing_actor",
+    "deposit_refunded_twice",
+    "repair_without_inspection",
+    "return_before_dispatch",
+    "simultaneous_locations"
+  ],
+  "detected_issue_counts": {
+    "custody_missing_actor": 13,
+    "repair_without_inspection": 6,
+    "return_before_dispatch": 1,
+    "deposit_refunded_twice": 1,
+    "simultaneous_locations": 1
+  },
+  "valid": true
+}

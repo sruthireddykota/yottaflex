@@ -1,0 +1,22 @@
+[
+  {
+    "owner_id": "OWN-000001",
+    "name": "YottaFlex Pool",
+    "owner_type": "supplier"
+  },
+  {
+    "owner_id": "OWN-000002",
+    "name": "Northwind Supplier",
+    "owner_type": "customer"
+  },
+  {
+    "owner_id": "OWN-000003",
+    "name": "Acme Retail",
+    "owner_type": "customer"
+  },
+  {
+    "owner_id": "OWN-000004",
+    "name": "Contoso DC",
+    "owner_type": "customer"
+  }
+]

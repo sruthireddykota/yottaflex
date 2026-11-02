@@ -1,0 +1,6 @@
+issue_id,issue_type,entity_id,expected_decision,details
+ISSUE-000001,simultaneous_locations,ASSET-0000001,review,Two custody events share the same effective date with different destinations
+ISSUE-000002,return_before_dispatch,RMA-2026-000001,review,Return received on or before dispatch
+ISSUE-000003,deposit_refunded_twice,ASSET-0000003,review,Two refunds exist for one charged deposit
+ISSUE-000004,repair_without_inspection,REP-2026-000001,review,Closed repair has no inspection foreign key
+ISSUE-000005,custody_missing_actor,CUST-ASSET-0000019-000019,review,Custody event actor is blank

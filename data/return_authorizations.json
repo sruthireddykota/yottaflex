@@ -1,0 +1,802 @@
+[
+  {
+    "return_authorization_id": "RMA-2026-000001",
+    "asset_id": "ASSET-0000001",
+    "shipment_id": "SHP-2026-000001",
+    "status": "received",
+    "requested_date": "2026-01-02",
+    "received_date": "2026-01-02"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000002",
+    "asset_id": "ASSET-0000002",
+    "shipment_id": "SHP-2026-000002",
+    "status": "received",
+    "requested_date": "2026-01-03",
+    "received_date": "2026-01-16"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000003",
+    "asset_id": "ASSET-0000003",
+    "shipment_id": "SHP-2026-000003",
+    "status": "received",
+    "requested_date": "2026-01-04",
+    "received_date": "2026-01-19"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000004",
+    "asset_id": "ASSET-0000004",
+    "shipment_id": "SHP-2026-000004",
+    "status": "in_transit",
+    "requested_date": "2026-01-05",
+    "received_date": "2026-01-22"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000005",
+    "asset_id": "ASSET-0000005",
+    "shipment_id": "SHP-2026-000005",
+    "status": "received",
+    "requested_date": "2026-01-06",
+    "received_date": "2026-01-25"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000006",
+    "asset_id": "ASSET-0000006",
+    "shipment_id": "SHP-2026-000006",
+    "status": "received",
+    "requested_date": "2026-01-07",
+    "received_date": "2026-01-28"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000007",
+    "asset_id": "ASSET-0000007",
+    "shipment_id": "SHP-2026-000007",
+    "status": "received",
+    "requested_date": "2026-01-08",
+    "received_date": "2026-01-31"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000008",
+    "asset_id": "ASSET-0000008",
+    "shipment_id": "SHP-2026-000008",
+    "status": "in_transit",
+    "requested_date": "2026-01-09",
+    "received_date": "2026-02-03"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000009",
+    "asset_id": "ASSET-0000009",
+    "shipment_id": "SHP-2026-000009",
+    "status": "received",
+    "requested_date": "2026-01-10",
+    "received_date": "2026-02-06"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000010",
+    "asset_id": "ASSET-0000010",
+    "shipment_id": "SHP-2026-000010",
+    "status": "received",
+    "requested_date": "2026-01-11",
+    "received_date": "2026-02-09"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000011",
+    "asset_id": "ASSET-0000011",
+    "shipment_id": "SHP-2026-000011",
+    "status": "received",
+    "requested_date": "2026-01-12",
+    "received_date": "2026-02-12"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000012",
+    "asset_id": "ASSET-0000012",
+    "shipment_id": "SHP-2026-000012",
+    "status": "in_transit",
+    "requested_date": "2026-01-13",
+    "received_date": "2026-02-15"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000013",
+    "asset_id": "ASSET-0000013",
+    "shipment_id": "SHP-2026-000013",
+    "status": "received",
+    "requested_date": "2026-01-14",
+    "received_date": "2026-02-18"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000014",
+    "asset_id": "ASSET-0000014",
+    "shipment_id": "SHP-2026-000014",
+    "status": "received",
+    "requested_date": "2026-01-15",
+    "received_date": "2026-02-21"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000015",
+    "asset_id": "ASSET-0000015",
+    "shipment_id": "SHP-2026-000015",
+    "status": "received",
+    "requested_date": "2026-01-16",
+    "received_date": "2026-02-24"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000016",
+    "asset_id": "ASSET-0000016",
+    "shipment_id": "SHP-2026-000016",
+    "status": "in_transit",
+    "requested_date": "2026-01-17",
+    "received_date": "2026-02-27"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000017",
+    "asset_id": "ASSET-0000017",
+    "shipment_id": "SHP-2026-000017",
+    "status": "received",
+    "requested_date": "2026-01-18",
+    "received_date": "2026-03-02"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000018",
+    "asset_id": "ASSET-0000018",
+    "shipment_id": "SHP-2026-000018",
+    "status": "received",
+    "requested_date": "2026-01-19",
+    "received_date": "2026-03-05"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000019",
+    "asset_id": "ASSET-0000019",
+    "shipment_id": "SHP-2026-000019",
+    "status": "received",
+    "requested_date": "2026-01-20",
+    "received_date": "2026-03-08"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000020",
+    "asset_id": "ASSET-0000020",
+    "shipment_id": "SHP-2026-000020",
+    "status": "in_transit",
+    "requested_date": "2026-01-21",
+    "received_date": "2026-02-19"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000021",
+    "asset_id": "ASSET-0000021",
+    "shipment_id": "SHP-2026-000021",
+    "status": "received",
+    "requested_date": "2026-01-22",
+    "received_date": "2026-02-22"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000022",
+    "asset_id": "ASSET-0000022",
+    "shipment_id": "SHP-2026-000022",
+    "status": "received",
+    "requested_date": "2026-01-23",
+    "received_date": "2026-02-25"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000023",
+    "asset_id": "ASSET-0000023",
+    "shipment_id": "SHP-2026-000023",
+    "status": "received",
+    "requested_date": "2026-01-24",
+    "received_date": "2026-02-28"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000024",
+    "asset_id": "ASSET-0000024",
+    "shipment_id": "SHP-2026-000024",
+    "status": "in_transit",
+    "requested_date": "2026-01-25",
+    "received_date": "2026-03-03"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000025",
+    "asset_id": "ASSET-0000025",
+    "shipment_id": "SHP-2026-000025",
+    "status": "received",
+    "requested_date": "2026-01-26",
+    "received_date": "2026-02-09"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000026",
+    "asset_id": "ASSET-0000026",
+    "shipment_id": "SHP-2026-000026",
+    "status": "received",
+    "requested_date": "2026-01-27",
+    "received_date": "2026-02-12"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000027",
+    "asset_id": "ASSET-0000027",
+    "shipment_id": "SHP-2026-000027",
+    "status": "received",
+    "requested_date": "2026-01-28",
+    "received_date": "2026-02-15"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000028",
+    "asset_id": "ASSET-0000028",
+    "shipment_id": "SHP-2026-000028",
+    "status": "in_transit",
+    "requested_date": "2026-01-29",
+    "received_date": "2026-02-18"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000029",
+    "asset_id": "ASSET-0000029",
+    "shipment_id": "SHP-2026-000029",
+    "status": "received",
+    "requested_date": "2026-01-30",
+    "received_date": "2026-02-21"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000030",
+    "asset_id": "ASSET-0000030",
+    "shipment_id": "SHP-2026-000030",
+    "status": "received",
+    "requested_date": "2026-01-31",
+    "received_date": "2026-02-24"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000031",
+    "asset_id": "ASSET-0000031",
+    "shipment_id": "SHP-2026-000031",
+    "status": "received",
+    "requested_date": "2026-02-01",
+    "received_date": "2026-02-27"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000032",
+    "asset_id": "ASSET-0000032",
+    "shipment_id": "SHP-2026-000032",
+    "status": "in_transit",
+    "requested_date": "2026-02-02",
+    "received_date": "2026-03-02"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000033",
+    "asset_id": "ASSET-0000033",
+    "shipment_id": "SHP-2026-000033",
+    "status": "received",
+    "requested_date": "2026-02-03",
+    "received_date": "2026-03-05"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000034",
+    "asset_id": "ASSET-0000034",
+    "shipment_id": "SHP-2026-000034",
+    "status": "received",
+    "requested_date": "2026-02-04",
+    "received_date": "2026-03-08"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000035",
+    "asset_id": "ASSET-0000035",
+    "shipment_id": "SHP-2026-000035",
+    "status": "received",
+    "requested_date": "2026-02-05",
+    "received_date": "2026-03-11"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000036",
+    "asset_id": "ASSET-0000036",
+    "shipment_id": "SHP-2026-000036",
+    "status": "in_transit",
+    "requested_date": "2026-02-06",
+    "received_date": "2026-03-14"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000037",
+    "asset_id": "ASSET-0000037",
+    "shipment_id": "SHP-2026-000037",
+    "status": "received",
+    "requested_date": "2026-02-07",
+    "received_date": "2026-03-17"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000038",
+    "asset_id": "ASSET-0000038",
+    "shipment_id": "SHP-2026-000038",
+    "status": "received",
+    "requested_date": "2026-02-08",
+    "received_date": "2026-03-20"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000039",
+    "asset_id": "ASSET-0000039",
+    "shipment_id": "SHP-2026-000039",
+    "status": "received",
+    "requested_date": "2026-02-09",
+    "received_date": "2026-03-23"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000040",
+    "asset_id": "ASSET-0000040",
+    "shipment_id": "SHP-2026-000040",
+    "status": "in_transit",
+    "requested_date": "2026-02-10",
+    "received_date": "2026-03-06"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000041",
+    "asset_id": "ASSET-0000041",
+    "shipment_id": "SHP-2026-000041",
+    "status": "received",
+    "requested_date": "2026-02-11",
+    "received_date": "2026-03-09"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000042",
+    "asset_id": "ASSET-0000042",
+    "shipment_id": "SHP-2026-000042",
+    "status": "received",
+    "requested_date": "2026-02-12",
+    "received_date": "2026-03-12"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000043",
+    "asset_id": "ASSET-0000043",
+    "shipment_id": "SHP-2026-000043",
+    "status": "received",
+    "requested_date": "2026-02-13",
+    "received_date": "2026-03-15"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000044",
+    "asset_id": "ASSET-0000044",
+    "shipment_id": "SHP-2026-000044",
+    "status": "in_transit",
+    "requested_date": "2026-02-14",
+    "received_date": "2026-03-18"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000045",
+    "asset_id": "ASSET-0000045",
+    "shipment_id": "SHP-2026-000045",
+    "status": "received",
+    "requested_date": "2026-02-15",
+    "received_date": "2026-03-21"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000046",
+    "asset_id": "ASSET-0000046",
+    "shipment_id": "SHP-2026-000046",
+    "status": "received",
+    "requested_date": "2026-02-16",
+    "received_date": "2026-03-24"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000047",
+    "asset_id": "ASSET-0000047",
+    "shipment_id": "SHP-2026-000047",
+    "status": "received",
+    "requested_date": "2026-02-17",
+    "received_date": "2026-03-27"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000048",
+    "asset_id": "ASSET-0000048",
+    "shipment_id": "SHP-2026-000048",
+    "status": "in_transit",
+    "requested_date": "2026-02-18",
+    "received_date": "2026-03-30"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000049",
+    "asset_id": "ASSET-0000049",
+    "shipment_id": "SHP-2026-000049",
+    "status": "received",
+    "requested_date": "2026-02-19",
+    "received_date": "2026-04-02"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000050",
+    "asset_id": "ASSET-0000050",
+    "shipment_id": "SHP-2026-000050",
+    "status": "received",
+    "requested_date": "2026-02-20",
+    "received_date": "2026-03-11"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000051",
+    "asset_id": "ASSET-0000051",
+    "shipment_id": "SHP-2026-000001",
+    "status": "received",
+    "requested_date": "2026-01-02",
+    "received_date": "2026-01-23"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000052",
+    "asset_id": "ASSET-0000052",
+    "shipment_id": "SHP-2026-000002",
+    "status": "in_transit",
+    "requested_date": "2026-01-03",
+    "received_date": "2026-01-26"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000053",
+    "asset_id": "ASSET-0000053",
+    "shipment_id": "SHP-2026-000003",
+    "status": "received",
+    "requested_date": "2026-01-04",
+    "received_date": "2026-01-29"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000054",
+    "asset_id": "ASSET-0000054",
+    "shipment_id": "SHP-2026-000004",
+    "status": "received",
+    "requested_date": "2026-01-05",
+    "received_date": "2026-02-01"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000055",
+    "asset_id": "ASSET-0000055",
+    "shipment_id": "SHP-2026-000005",
+    "status": "received",
+    "requested_date": "2026-01-06",
+    "received_date": "2026-02-04"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000056",
+    "asset_id": "ASSET-0000056",
+    "shipment_id": "SHP-2026-000006",
+    "status": "in_transit",
+    "requested_date": "2026-01-07",
+    "received_date": "2026-02-07"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000057",
+    "asset_id": "ASSET-0000057",
+    "shipment_id": "SHP-2026-000007",
+    "status": "received",
+    "requested_date": "2026-01-08",
+    "received_date": "2026-02-10"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000058",
+    "asset_id": "ASSET-0000058",
+    "shipment_id": "SHP-2026-000008",
+    "status": "received",
+    "requested_date": "2026-01-09",
+    "received_date": "2026-02-13"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000059",
+    "asset_id": "ASSET-0000059",
+    "shipment_id": "SHP-2026-000009",
+    "status": "received",
+    "requested_date": "2026-01-10",
+    "received_date": "2026-02-16"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000060",
+    "asset_id": "ASSET-0000060",
+    "shipment_id": "SHP-2026-000010",
+    "status": "in_transit",
+    "requested_date": "2026-01-11",
+    "received_date": "2026-01-30"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000061",
+    "asset_id": "ASSET-0000061",
+    "shipment_id": "SHP-2026-000011",
+    "status": "received",
+    "requested_date": "2026-01-12",
+    "received_date": "2026-02-02"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000062",
+    "asset_id": "ASSET-0000062",
+    "shipment_id": "SHP-2026-000012",
+    "status": "received",
+    "requested_date": "2026-01-13",
+    "received_date": "2026-02-05"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000063",
+    "asset_id": "ASSET-0000063",
+    "shipment_id": "SHP-2026-000013",
+    "status": "received",
+    "requested_date": "2026-01-14",
+    "received_date": "2026-02-08"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000064",
+    "asset_id": "ASSET-0000064",
+    "shipment_id": "SHP-2026-000014",
+    "status": "in_transit",
+    "requested_date": "2026-01-15",
+    "received_date": "2026-02-11"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000065",
+    "asset_id": "ASSET-0000065",
+    "shipment_id": "SHP-2026-000015",
+    "status": "received",
+    "requested_date": "2026-01-16",
+    "received_date": "2026-02-14"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000066",
+    "asset_id": "ASSET-0000066",
+    "shipment_id": "SHP-2026-000016",
+    "status": "received",
+    "requested_date": "2026-01-17",
+    "received_date": "2026-02-17"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000067",
+    "asset_id": "ASSET-0000067",
+    "shipment_id": "SHP-2026-000017",
+    "status": "received",
+    "requested_date": "2026-01-18",
+    "received_date": "2026-02-20"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000068",
+    "asset_id": "ASSET-0000068",
+    "shipment_id": "SHP-2026-000018",
+    "status": "in_transit",
+    "requested_date": "2026-01-19",
+    "received_date": "2026-02-23"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000069",
+    "asset_id": "ASSET-0000069",
+    "shipment_id": "SHP-2026-000019",
+    "status": "received",
+    "requested_date": "2026-01-20",
+    "received_date": "2026-02-26"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000070",
+    "asset_id": "ASSET-0000070",
+    "shipment_id": "SHP-2026-000020",
+    "status": "received",
+    "requested_date": "2026-01-21",
+    "received_date": "2026-03-01"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000071",
+    "asset_id": "ASSET-0000071",
+    "shipment_id": "SHP-2026-000021",
+    "status": "received",
+    "requested_date": "2026-01-22",
+    "received_date": "2026-03-04"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000072",
+    "asset_id": "ASSET-0000072",
+    "shipment_id": "SHP-2026-000022",
+    "status": "in_transit",
+    "requested_date": "2026-01-23",
+    "received_date": "2026-03-07"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000073",
+    "asset_id": "ASSET-0000073",
+    "shipment_id": "SHP-2026-000023",
+    "status": "received",
+    "requested_date": "2026-01-24",
+    "received_date": "2026-03-10"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000074",
+    "asset_id": "ASSET-0000074",
+    "shipment_id": "SHP-2026-000024",
+    "status": "received",
+    "requested_date": "2026-01-25",
+    "received_date": "2026-03-13"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000075",
+    "asset_id": "ASSET-0000075",
+    "shipment_id": "SHP-2026-000025",
+    "status": "received",
+    "requested_date": "2026-01-26",
+    "received_date": "2026-02-19"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000076",
+    "asset_id": "ASSET-0000076",
+    "shipment_id": "SHP-2026-000026",
+    "status": "in_transit",
+    "requested_date": "2026-01-27",
+    "received_date": "2026-02-22"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000077",
+    "asset_id": "ASSET-0000077",
+    "shipment_id": "SHP-2026-000027",
+    "status": "received",
+    "requested_date": "2026-01-28",
+    "received_date": "2026-02-25"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000078",
+    "asset_id": "ASSET-0000078",
+    "shipment_id": "SHP-2026-000028",
+    "status": "received",
+    "requested_date": "2026-01-29",
+    "received_date": "2026-02-28"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000079",
+    "asset_id": "ASSET-0000079",
+    "shipment_id": "SHP-2026-000029",
+    "status": "received",
+    "requested_date": "2026-01-30",
+    "received_date": "2026-03-03"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000080",
+    "asset_id": "ASSET-0000080",
+    "shipment_id": "SHP-2026-000030",
+    "status": "in_transit",
+    "requested_date": "2026-01-31",
+    "received_date": "2026-02-14"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000081",
+    "asset_id": "ASSET-0000081",
+    "shipment_id": "SHP-2026-000031",
+    "status": "received",
+    "requested_date": "2026-02-01",
+    "received_date": "2026-02-17"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000082",
+    "asset_id": "ASSET-0000082",
+    "shipment_id": "SHP-2026-000032",
+    "status": "received",
+    "requested_date": "2026-02-02",
+    "received_date": "2026-02-20"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000083",
+    "asset_id": "ASSET-0000083",
+    "shipment_id": "SHP-2026-000033",
+    "status": "received",
+    "requested_date": "2026-02-03",
+    "received_date": "2026-02-23"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000084",
+    "asset_id": "ASSET-0000084",
+    "shipment_id": "SHP-2026-000034",
+    "status": "in_transit",
+    "requested_date": "2026-02-04",
+    "received_date": "2026-02-26"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000085",
+    "asset_id": "ASSET-0000085",
+    "shipment_id": "SHP-2026-000035",
+    "status": "received",
+    "requested_date": "2026-02-05",
+    "received_date": "2026-03-01"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000086",
+    "asset_id": "ASSET-0000086",
+    "shipment_id": "SHP-2026-000036",
+    "status": "received",
+    "requested_date": "2026-02-06",
+    "received_date": "2026-03-04"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000087",
+    "asset_id": "ASSET-0000087",
+    "shipment_id": "SHP-2026-000037",
+    "status": "received",
+    "requested_date": "2026-02-07",
+    "received_date": "2026-03-07"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000088",
+    "asset_id": "ASSET-0000088",
+    "shipment_id": "SHP-2026-000038",
+    "status": "in_transit",
+    "requested_date": "2026-02-08",
+    "received_date": "2026-03-10"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000089",
+    "asset_id": "ASSET-0000089",
+    "shipment_id": "SHP-2026-000039",
+    "status": "received",
+    "requested_date": "2026-02-09",
+    "received_date": "2026-03-13"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000090",
+    "asset_id": "ASSET-0000090",
+    "shipment_id": "SHP-2026-000040",
+    "status": "received",
+    "requested_date": "2026-02-10",
+    "received_date": "2026-03-16"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000091",
+    "asset_id": "ASSET-0000091",
+    "shipment_id": "SHP-2026-000041",
+    "status": "received",
+    "requested_date": "2026-02-11",
+    "received_date": "2026-03-19"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000092",
+    "asset_id": "ASSET-0000092",
+    "shipment_id": "SHP-2026-000042",
+    "status": "in_transit",
+    "requested_date": "2026-02-12",
+    "received_date": "2026-03-22"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000093",
+    "asset_id": "ASSET-0000093",
+    "shipment_id": "SHP-2026-000043",
+    "status": "received",
+    "requested_date": "2026-02-13",
+    "received_date": "2026-03-25"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000094",
+    "asset_id": "ASSET-0000094",
+    "shipment_id": "SHP-2026-000044",
+    "status": "received",
+    "requested_date": "2026-02-14",
+    "received_date": "2026-03-28"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000095",
+    "asset_id": "ASSET-0000095",
+    "shipment_id": "SHP-2026-000045",
+    "status": "received",
+    "requested_date": "2026-02-15",
+    "received_date": "2026-03-31"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000096",
+    "asset_id": "ASSET-0000096",
+    "shipment_id": "SHP-2026-000046",
+    "status": "in_transit",
+    "requested_date": "2026-02-16",
+    "received_date": "2026-04-03"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000097",
+    "asset_id": "ASSET-0000097",
+    "shipment_id": "SHP-2026-000047",
+    "status": "received",
+    "requested_date": "2026-02-17",
+    "received_date": "2026-04-06"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000098",
+    "asset_id": "ASSET-0000098",
+    "shipment_id": "SHP-2026-000048",
+    "status": "received",
+    "requested_date": "2026-02-18",
+    "received_date": "2026-04-09"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000099",
+    "asset_id": "ASSET-0000099",
+    "shipment_id": "SHP-2026-000049",
+    "status": "received",
+    "requested_date": "2026-02-19",
+    "received_date": "2026-04-12"
+  },
+  {
+    "return_authorization_id": "RMA-2026-000100",
+    "asset_id": "ASSET-0000100",
+    "shipment_id": "SHP-2026-000050",
+    "status": "in_transit",
+    "requested_date": "2026-02-20",
+    "received_date": "2026-03-01"
+  }
+]

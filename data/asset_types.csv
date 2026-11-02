@@ -1,0 +1,5 @@
+asset_type_id,name,category,deposit_amount,return_days
+AT-000001,Standard Pallet,pallet,25.00,30
+AT-000002,Reusable Tote,tote,12.50,14
+AT-000003,Heavy Crate,crate,40.00,45
+AT-000004,Handling Equipment,equipment,100.00,60

@@ -1,0 +1,30 @@
+[
+  {
+    "asset_type_id": "AT-000001",
+    "name": "Standard Pallet",
+    "category": "pallet",
+    "deposit_amount": "25.00",
+    "return_days": 30
+  },
+  {
+    "asset_type_id": "AT-000002",
+    "name": "Reusable Tote",
+    "category": "tote",
+    "deposit_amount": "12.50",
+    "return_days": 14
+  },
+  {
+    "asset_type_id": "AT-000003",
+    "name": "Heavy Crate",
+    "category": "crate",
+    "deposit_amount": "40.00",
+    "return_days": 45
+  },
+  {
+    "asset_type_id": "AT-000004",
+    "name": "Handling Equipment",
+    "category": "equipment",
+    "deposit_amount": "100.00",
+    "return_days": 60
+  }
+]

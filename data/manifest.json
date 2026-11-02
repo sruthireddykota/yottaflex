@@ -1,0 +1,43 @@
+{
+  "seed": 20261022,
+  "counts": {
+    "asset_types": 4,
+    "owners": 4,
+    "locations": 5,
+    "reusable_assets": 100,
+    "shipments": 50,
+    "custody_events": 250,
+    "return_authorizations": 100,
+    "inspections": 94,
+    "repairs": 6,
+    "deposit_ledger": 134
+  },
+  "ground_truth_count": 5,
+  "files": {
+    "locations.json": "1db372b80c00f635ab08420b9a66d6fe7f18928025fee02c96130ddfda907be1",
+    "return_authorizations.json": "c9d785998d44ea35241d388c6eefa43a9196818c01363547dd466501b6bb102d",
+    "repairs.json": "47b987484412892df371900a663602ca443a660314a121357a707a4fdec71371",
+    "inspections.csv": "d599e52c78b04db827520438aea3e02d95df3f703c166dcbda17dbd66c43a5a9",
+    "reusable_assets.json": "2f77c8f5701e26b1df6cc27a386e594d8b230137058a938dbdb904fd548aa335",
+    "return_authorizations.csv": "d5c18d5b7bc706823f2fa6323e49dc58eccfe003f613d0fce111702940357fba",
+    "seed.sql": "4d6edd8158692935e8b47dbfe9cf47a6969743abd10e280c42ef4ac20e9f89e0",
+    "reusable_assets.csv": "34a0fcb27e3dbc6651fc560c9becf35a0a27778c4669bc5158b6993df2de518e",
+    "shipments.csv": "ab32a1a79d96dc5330f69c4360b5bf5b2e454fc970020ed252f45df0adc43e1a",
+    "custody_events.json": "e9726cfb6817ea9d01a7ab4b666a2af7922bf6a544668f0eae836330bce2eeed",
+    "validation_summary.json": "07f9491c9e0f7fb8225ff2bf9d164d24e9b56dc63db23d18c064d623c11b3cd4",
+    "ground_truth.csv": "d9fa0317d6a437799ae35cd7bf038c6c34b6a4a30a54272265eff7532dfa35e5",
+    "deposit_ledger.csv": "0a69693621749b0d2aa34c166a62779c72fc95ddc702e7450b8340a83e82cd96",
+    "shipments.json": "bec3bf5392f4f1b41f9a5a302cacf873c9d9edc385b01c52f9d4d41b5ab6e34f",
+    "deposit_ledger.json": "9f50cda6f89f57d010ec412398140c1aef68f41eaec89a6bbea2bfae4e7dee0e",
+    "owners.csv": "44cd7b1e1ec54c9b5fb1905c1945e9c6cb3347b745e95bd3c80d741cc5cabb3e",
+    "asset_types.json": "c998cf637a35a379f73e4fabbf81db82204e16ba18a1173361e4c47ebbfd39ca",
+    "repairs.csv": "e96133a531caf40726a677392738e443ac0c469b5fd35bc639312a359e737e9b",
+    "locations.csv": "70c4ae34bd08677785a9a9782c9294d1f02388dbf8ccefe0a8e687d134d23290",
+    "manifest.json": "968a5a26ee9368f990a31b4504b32834f7e618bd78a79fcfa5026189003043f1",
+    "custody_events.csv": "81d0156b23dee47060ec4fd418dbb47952529690eb6b4922340f8d92c10535e5",
+    "asset_types.csv": "c8ac8f885b09a2a21fae6c84e742f98d9356d54609d4047103a91eafd99e31a2",
+    "owners.json": "36bb921ec4aee7b9f8c215fbb0a0a7b38bdeb1a34f8ee3e61cdcdcfa37f85b94",
+    "inspections.json": "14b990a755db7cac5c484e3f5ea6aacabde97bc956ba376b45ffdb8af24edc61",
+    "ground_truth.json": "54b7b70b05b97c769d370e720333c3b47269bfefbe34193b0f81118e910c949c"
+  }
+}
